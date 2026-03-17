@@ -144,7 +144,7 @@ export default function LandingPage() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B5MJh3BJx339lVFA4KYjFzlzMX/uploaded-1773780090193-523s4a32.jpg",              imageAlt: "Zoey Short"
             },
             {
-              id: "6",              name: "Jane Oneil ",              handle: "Mission Hills Homeowner",              testimonial: "Called for emergency leak during rain. Arrived quickly, fixed it permanently, and prevented water damage. Lifesavers!",              rating: 5,
+              id: "6",              name: "Jane Oneil ",              handle: "Mission Hills Homeowner",              testimonial: "Samuel and his crew were professional, friendly and very efficient. After removing my old chimney stack, replacing the wood decking and installing new shingles, they left my yard spotless. ",              rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B5MJh3BJx339lVFA4KYjFzlzMX/uploaded-1773780098490-2ijr44fp.jpg",              imageAlt: "Jane Oneil "
             }
           ]}

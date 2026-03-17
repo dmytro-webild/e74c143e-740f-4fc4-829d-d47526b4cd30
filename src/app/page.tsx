@@ -60,8 +60,7 @@ export default function LandingPage() {
           rating={5}
           ratingText="4.8★ - 67 verified reviews"
           buttons={[
-            { text: "Call Now: (818) 405-0292", href: "tel:(818)405-0292" },
-            { text: "Request Free Estimate", href: "#contact" }
+            { text: "Call Now: (818) 405-0292", href: "tel:(818)405-0292" }
           ]}
           buttonAnimation="slide-up"
         />
@@ -113,7 +112,7 @@ export default function LandingPage() {
           textboxLayout="default"
           useInvertedBackground={false}
           buttons={[
-            { text: "Get Free Inspection", href: "#contact" }
+            { text: "Get Free Inspection", href: "tel:(818)405-0292" }
           ]}
           buttonAnimation="slide-up"
         />
@@ -222,8 +221,7 @@ export default function LandingPage() {
           description="Get a free roof inspection and estimate from Mission Hills Roofing. Same-day scheduling available."
           background={{ variant: "radial-gradient" }}
           buttons={[
-            { text: "Call Now: (818) 405-0292", href: "tel:(818)405-0292" },
-            { text: "Schedule Free Estimate", href: "#" }
+            { text: "Call Now: (818) 405-0292", href: "tel:(818)405-0292" }
           ]}
           buttonAnimation="slide-up"
           useInvertedBackground={true}

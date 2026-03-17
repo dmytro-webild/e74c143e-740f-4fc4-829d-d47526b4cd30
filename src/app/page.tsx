@@ -128,11 +128,11 @@ export default function LandingPage() {
           tagAnimation="slide-up"
           testimonials={[
             {
-              id: "1",              name: "Terrene Prince ",              handle: "Mission Hills Homeowner",              testimonial: "Mission Hills Roofing fixed our leak within 48 hours. Professional, courteous, and fair pricing. Highly recommend!",              rating: 5,
+              id: "1",              name: "Terrene Prince ",              handle: "Mission Hills Homeowner",              testimonial: "Mission Hills Roofing fixed our leak within 4",              rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B5MJh3BJx339lVFA4KYjFzlzMX/uploaded-1773780056128-rue4rpx0.jpg",              imageAlt: "Terrene Prince "
             },
             {
-              id: "2",              name: "Duane McCarthy",              handle: "Local Business Owner",              testimonial: "Replaced entire roof in 3 days. Clean work site, attention to detail, and warranty on all work. Best roofer in the area.",              rating: 5,
+              id: "2",              name: "Duane McCarthy",              handle: "Local Business Owner",              testimonial: "Samuel and his team were professional and careful, delivering a high-quality aluminum roff that looks great and will last for years.",              rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B5MJh3BJx339lVFA4KYjFzlzMX/uploaded-1773780063986-q488dol0.jpg",              imageAlt: "Duane McCarthy"
             },
             {

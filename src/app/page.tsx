@@ -71,9 +71,9 @@ export default function LandingPage() {
         <AboutMetric
           title="Why Mission Hills Homeowners Trust Us"
           metrics={[
-            { icon: Award, label: "Years Experience", value: "20+" },
-            { icon: Users, label: "Happy Customers", value: "1,200+" },
-            { icon: CheckCircle, label: "Projects Completed", value: "3,500+" },
+            { icon: Award, label: "Years Experience", value: "15+" },
+            { icon: Users, label: "Happy Customers", value: "800+" },
+            { icon: CheckCircle, label: "Projects Completed", value: "2000+" },
             { icon: Shield, label: "Insurance Certified", value: "Yes" }
           ]}
           metricsAnimation="slide-up"

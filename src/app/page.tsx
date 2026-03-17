@@ -140,7 +140,7 @@ export default function LandingPage() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B5MJh3BJx339lVFA4KYjFzlzMX/uploaded-1773780075592-tey8ytpm.jpg",              imageAlt: "Valerie Moreno "
             },
             {
-              id: "5",              name: "Zoey Short",              handle: "Long-time Customer",              testimonial: "Used them for roof repair, gutter installation, and skylight replacement. Consistently excellent service every time.",              rating: 5,
+              id: "5",              name: "Zoey Short",              handle: "Long-time Customer",              testimonial: "Mission Hills Roofing delivered excellent value and quality workmanship. Jonah and the team were thorough, professional, and left everything spotless. ",              rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B5MJh3BJx339lVFA4KYjFzlzMX/uploaded-1773780090193-523s4a32.jpg",              imageAlt: "Zoey Short"
             },
             {

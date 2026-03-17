@@ -128,23 +128,23 @@ export default function LandingPage() {
           tagAnimation="slide-up"
           testimonials={[
             {
-              id: "1",              name: "Terrene Prince ",              handle: "Mission Hills Homeowner",              testimonial: "This company is professional, reliable and stands by their work. Samuel and his team installed a beautiful metal roof, handled everything promptly, and even followed up years later to fix minor issues. ",              rating: 5,
+              id: "1",              name: "Terrene Prince ",              handle: "Client ",              testimonial: "This company is professional, reliable and stands by their work. Samuel and his team installed a beautiful metal roof, handled everything promptly, and even followed up years later to fix minor issues. ",              rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B5MJh3BJx339lVFA4KYjFzlzMX/uploaded-1773780056128-rue4rpx0.jpg",              imageAlt: "Terrene Prince "
             },
             {
-              id: "2",              name: "Duane McCarthy",              handle: "Local Business Owner",              testimonial: "Samuel and his team were professional and careful, delivering a high-quality aluminum roff that looks great and will last for years.",              rating: 5,
+              id: "2",              name: "Duane McCarthy",              handle: "Client ",              testimonial: "Samuel and his team were professional and careful, delivering a high-quality aluminum roff that looks great and will last for years.",              rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B5MJh3BJx339lVFA4KYjFzlzMX/uploaded-1773780063986-q488dol0.jpg",              imageAlt: "Duane McCarthy"
             },
             {
-              id: "4",              name: "Valerie Moreno ",              handle: "Homeowner",              testimonial: "Mission Hills Roofing was a professional, thorough and responsive. They provided a detailed estimate, kept the site clean and completed my room replacement smoothly. ",              rating: 5,
+              id: "4",              name: "Valerie Moreno ",              handle: "Client",              testimonial: "Mission Hills Roofing was a professional, thorough and responsive. They provided a detailed estimate, kept the site clean and completed my room replacement smoothly. ",              rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B5MJh3BJx339lVFA4KYjFzlzMX/uploaded-1773780075592-tey8ytpm.jpg",              imageAlt: "Valerie Moreno "
             },
             {
-              id: "5",              name: "Zoey Short",              handle: "Long-time Customer",              testimonial: "Mission Hills Roofing delivered excellent value and quality workmanship. Jonah and the team were thorough, professional, and left everything spotless. ",              rating: 5,
+              id: "5",              name: "Zoey Short",              handle: "Client",              testimonial: "Mission Hills Roofing delivered excellent value and quality workmanship. Jonah and the team were thorough, professional, and left everything spotless. ",              rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B5MJh3BJx339lVFA4KYjFzlzMX/uploaded-1773780090193-523s4a32.jpg",              imageAlt: "Zoey Short"
             },
             {
-              id: "6",              name: "Jane Oneil ",              handle: "Mission Hills Homeowner",              testimonial: "Samuel and his crew were professional, friendly and very efficient. After removing my old chimney stack, replacing the wood decking and installing new shingles, they left my yard spotless. ",              rating: 5,
+              id: "6",              name: "Jane Oneil ",              handle: "Client ",              testimonial: "Samuel and his crew were professional, friendly and very efficient. After removing my old chimney stack, replacing the wood decking and installing new shingles, they left my yard spotless. ",              rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B5MJh3BJx339lVFA4KYjFzlzMX/uploaded-1773780098490-2ijr44fp.jpg",              imageAlt: "Jane Oneil "
             }
           ]}

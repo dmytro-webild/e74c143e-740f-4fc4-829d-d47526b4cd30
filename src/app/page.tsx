@@ -128,28 +128,28 @@ export default function LandingPage() {
           tagAnimation="slide-up"
           testimonials={[
             {
-              id: "1",              name: "Sarah Martinez",              handle: "Mission Hills Homeowner",              testimonial: "Mission Hills Roofing fixed our leak within 48 hours. Professional, courteous, and fair pricing. Highly recommend!",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-woman-working-as-real-estate-agent_23-2151064992.jpg",              imageAlt: "Sarah Martinez"
+              id: "1",              name: "Terrene Prince ",              handle: "Mission Hills Homeowner",              testimonial: "Mission Hills Roofing fixed our leak within 48 hours. Professional, courteous, and fair pricing. Highly recommend!",              rating: 5,
+              imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-woman-working-as-real-estate-agent_23-2151064992.jpg",              imageAlt: "Terrene Prince "
             },
             {
-              id: "2",              name: "Robert Chen",              handle: "Local Business Owner",              testimonial: "Replaced entire roof in 3 days. Clean work site, attention to detail, and warranty on all work. Best roofer in the area.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-happy-senior-woman-showing-thumbs-up_1262-5331.jpg",              imageAlt: "Robert Chen"
+              id: "2",              name: "Duane McCarthy",              handle: "Local Business Owner",              testimonial: "Replaced entire roof in 3 days. Clean work site, attention to detail, and warranty on all work. Best roofer in the area.",              rating: 5,
+              imageSrc: "http://img.b2bpic.net/free-photo/portrait-happy-senior-woman-showing-thumbs-up_1262-5331.jpg",              imageAlt: "Duane McCarthy"
             },
             {
-              id: "3",              name: "Jennifer Thompson",              handle: "Mission Hills Resident",              testimonial: "Handled our insurance claim perfectly. Saved us thousands and the roof looks amazing. Great communication throughout.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-woman-cafe_273609-12661.jpg",              imageAlt: "Jennifer Thompson"
+              id: "3",              name: "",              handle: "Valerie Moreno",              testimonial: "Handled our insurance claim perfectly. Saved us thousands and the roof looks amazing. Great communication throughout.",              rating: 5,
+              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-woman-cafe_273609-12661.jpg",              imageAlt: ""
             },
             {
-              id: "4",              name: "Michael Torres",              handle: "Homeowner",              testimonial: "Storm damaged our roof and these guys got us back in shape fast. Honest, reliable, and they stand behind their work.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/happy-pretty-young-lady-waving-hand-you-park_1262-20562.jpg",              imageAlt: "Michael Torres"
+              id: "4",              name: "Valerie Moreno ",              handle: "Homeowner",              testimonial: "Storm damaged our roof and these guys got us back in shape fast. Honest, reliable, and they stand behind their work.",              rating: 5,
+              imageSrc: "http://img.b2bpic.net/free-photo/happy-pretty-young-lady-waving-hand-you-park_1262-20562.jpg",              imageAlt: "Valerie Moreno "
             },
             {
-              id: "5",              name: "Linda Anderson",              handle: "Long-time Customer",              testimonial: "Used them for roof repair, gutter installation, and skylight replacement. Consistently excellent service every time.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-satisfied-bearded-guy-white-shirt-showing-thumbs-up-approval-like-agree-positive-answer_1258-26715.jpg",              imageAlt: "Linda Anderson"
+              id: "5",              name: "Zoey Short",              handle: "Long-time Customer",              testimonial: "Used them for roof repair, gutter installation, and skylight replacement. Consistently excellent service every time.",              rating: 5,
+              imageSrc: "http://img.b2bpic.net/free-photo/close-up-satisfied-bearded-guy-white-shirt-showing-thumbs-up-approval-like-agree-positive-answer_1258-26715.jpg",              imageAlt: "Zoey Short"
             },
             {
-              id: "6",              name: "David Kim",              handle: "Mission Hills Homeowner",              testimonial: "Called for emergency leak during rain. Arrived quickly, fixed it permanently, and prevented water damage. Lifesavers!",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/professional-woman-standing-with-coffee-busy-street-smiling-camera_1258-123421.jpg",              imageAlt: "David Kim"
+              id: "6",              name: "Jane Oneil ",              handle: "Mission Hills Homeowner",              testimonial: "Called for emergency leak during rain. Arrived quickly, fixed it permanently, and prevented water damage. Lifesavers!",              rating: 5,
+              imageSrc: "http://img.b2bpic.net/free-photo/professional-woman-standing-with-coffee-busy-street-smiling-camera_1258-123421.jpg",              imageAlt: "Jane Oneil "
             }
           ]}
           showRating={true}

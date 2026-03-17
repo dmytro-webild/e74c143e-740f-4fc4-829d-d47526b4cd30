@@ -50,7 +50,7 @@ export default function LandingPage() {
           background={{ variant: "gradient-bars" }}
           mediaItems={[
             {
-              imageSrc: "http://img.b2bpic.net/free-photo/vertical-low-angle-shot-grey-concrete-building-front-building-with-glass-facade_181624-6795.jpg",              imageAlt: "Professional roofers installing new roof on residential home"
+              imageSrc: "http://img.b2bpic.net/free-photo/vertical-low-angle-shot-grey-concrete-building-front-building-with-glass-facade_181624-6795.jpg?_wi=1",              imageAlt: "Professional roofers installing new roof on residential home"
             },
             {
               imageSrc: "http://img.b2bpic.net/free-photo/high-angle-beautiful-wooden-house-with-new-roof_23-2149343703.jpg",              imageAlt: "Mission Hills homeowner satisfied with completed roof repair"
@@ -90,7 +90,7 @@ export default function LandingPage() {
           tagAnimation="slide-up"
           features={[
             {
-              id: "repair",              title: "Roof Repair",              description: "Quick response to leaks, damaged shingles, and storm damage. We inspect, assess, and repair with expert precision.",              imageSrc: "http://img.b2bpic.net/free-photo/full-shot-man-wearing-protection-helmet_23-2149343634.jpg",              imageAlt: "Professional roof repair on residential home"
+              id: "repair",              title: "Roof Repair",              description: "Quick response to leaks, damaged shingles, and storm damage. We inspect, assess, and repair with expert precision.",              imageSrc: "http://img.b2bpic.net/free-photo/full-shot-man-wearing-protection-helmet_23-2149343634.jpg?_wi=1",              imageAlt: "Professional roof repair on residential home"
             },
             {
               id: "skylight",              title: "Skylight Repair & Installation",              description: "Beautiful natural light for your home. Expert installation, replacement, and leak repair for all skylight types.",              imageSrc: "http://img.b2bpic.net/free-photo/futuristic-kitchen-interior-design_23-2151821288.jpg",              imageAlt: "Modern skylight installation in residential home"
@@ -102,10 +102,10 @@ export default function LandingPage() {
               id: "gutter",              title: "Gutter Installation",              description: "Proper drainage prevents costly water damage. We install, repair, and maintain gutters for complete protection.",              imageSrc: "http://img.b2bpic.net/free-photo/learning-map_1098-14838.jpg",              imageAlt: "Quality gutter installation on residential home"
             },
             {
-              id: "insurance",              title: "Insurance Roofing Work",              description: "Direct insurance billing available. We handle the paperwork and work with your insurance for damage claims.",              imageSrc: "http://img.b2bpic.net/free-photo/full-shot-man-wearing-protection-helmet_23-2149343634.jpg",              imageAlt: "Insurance approved roofing repair"
+              id: "insurance",              title: "Insurance Roofing Work",              description: "Direct insurance billing available. We handle the paperwork and work with your insurance for damage claims.",              imageSrc: "http://img.b2bpic.net/free-photo/full-shot-man-wearing-protection-helmet_23-2149343634.jpg?_wi=2",              imageAlt: "Insurance approved roofing repair"
             },
             {
-              id: "maintenance",              title: "Roof Maintenance",              description: "Regular inspection and maintenance extend roof life. Preventive care saves money and prevents emergencies.",              imageSrc: "http://img.b2bpic.net/free-photo/vertical-low-angle-shot-grey-concrete-building-front-building-with-glass-facade_181624-6795.jpg",              imageAlt: "Professional roof maintenance and inspection"
+              id: "maintenance",              title: "Roof Maintenance",              description: "Regular inspection and maintenance extend roof life. Preventive care saves money and prevents emergencies.",              imageSrc: "http://img.b2bpic.net/free-photo/vertical-low-angle-shot-grey-concrete-building-front-building-with-glass-facade_181624-6795.jpg?_wi=2",              imageAlt: "Professional roof maintenance and inspection"
             }
           ]}
           gridVariant="bento-grid"

@@ -128,7 +128,7 @@ export default function LandingPage() {
           tagAnimation="slide-up"
           testimonials={[
             {
-              id: "1",              name: "Terrene Prince ",              handle: "Mission Hills Homeowner",              testimonial: "Mission Hills Roofing fixed our leak within 4",              rating: 5,
+              id: "1",              name: "Terrene Prince ",              handle: "Mission Hills Homeowner",              testimonial: "This company is professional, reliable and stands by their work. Samuel and his team installed a beautiful metal roof, handled everything promptly, and even followed up years later to fix minor issues. ",              rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B5MJh3BJx339lVFA4KYjFzlzMX/uploaded-1773780056128-rue4rpx0.jpg",              imageAlt: "Terrene Prince "
             },
             {

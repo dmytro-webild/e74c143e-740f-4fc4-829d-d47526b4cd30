@@ -136,7 +136,7 @@ export default function LandingPage() {
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B5MJh3BJx339lVFA4KYjFzlzMX/uploaded-1773780063986-q488dol0.jpg",              imageAlt: "Duane McCarthy"
             },
             {
-              id: "4",              name: "Valerie Moreno ",              handle: "Homeowner",              testimonial: "Storm damaged our roof and these guys got us back in shape fast. Honest, reliable, and they stand behind their work.",              rating: 5,
+              id: "4",              name: "Valerie Moreno ",              handle: "Homeowner",              testimonial: "Mission Hills Roofing was a professional, thorough and responsive. They provided a detailed estimate, kept the site clean and completed my room replacement smoothly. ",              rating: 5,
               imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B5MJh3BJx339lVFA4KYjFzlzMX/uploaded-1773780075592-tey8ytpm.jpg",              imageAlt: "Valerie Moreno "
             },
             {

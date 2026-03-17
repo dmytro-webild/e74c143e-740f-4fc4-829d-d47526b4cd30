@@ -129,23 +129,23 @@ export default function LandingPage() {
           testimonials={[
             {
               id: "1",              name: "Terrene Prince ",              handle: "Mission Hills Homeowner",              testimonial: "Mission Hills Roofing fixed our leak within 48 hours. Professional, courteous, and fair pricing. Highly recommend!",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-woman-working-as-real-estate-agent_23-2151064992.jpg",              imageAlt: "Terrene Prince "
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B5MJh3BJx339lVFA4KYjFzlzMX/uploaded-1773780056128-rue4rpx0.jpg",              imageAlt: "Terrene Prince "
             },
             {
               id: "2",              name: "Duane McCarthy",              handle: "Local Business Owner",              testimonial: "Replaced entire roof in 3 days. Clean work site, attention to detail, and warranty on all work. Best roofer in the area.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/portrait-happy-senior-woman-showing-thumbs-up_1262-5331.jpg",              imageAlt: "Duane McCarthy"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B5MJh3BJx339lVFA4KYjFzlzMX/uploaded-1773780063986-q488dol0.jpg",              imageAlt: "Duane McCarthy"
             },
             {
               id: "4",              name: "Valerie Moreno ",              handle: "Homeowner",              testimonial: "Storm damaged our roof and these guys got us back in shape fast. Honest, reliable, and they stand behind their work.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/happy-pretty-young-lady-waving-hand-you-park_1262-20562.jpg",              imageAlt: "Valerie Moreno "
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B5MJh3BJx339lVFA4KYjFzlzMX/uploaded-1773780075592-tey8ytpm.jpg",              imageAlt: "Valerie Moreno "
             },
             {
               id: "5",              name: "Zoey Short",              handle: "Long-time Customer",              testimonial: "Used them for roof repair, gutter installation, and skylight replacement. Consistently excellent service every time.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/close-up-satisfied-bearded-guy-white-shirt-showing-thumbs-up-approval-like-agree-positive-answer_1258-26715.jpg",              imageAlt: "Zoey Short"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B5MJh3BJx339lVFA4KYjFzlzMX/uploaded-1773780090193-523s4a32.jpg",              imageAlt: "Zoey Short"
             },
             {
               id: "6",              name: "Jane Oneil ",              handle: "Mission Hills Homeowner",              testimonial: "Called for emergency leak during rain. Arrived quickly, fixed it permanently, and prevented water damage. Lifesavers!",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/professional-woman-standing-with-coffee-busy-street-smiling-camera_1258-123421.jpg",              imageAlt: "Jane Oneil "
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B5MJh3BJx339lVFA4KYjFzlzMX/uploaded-1773780098490-2ijr44fp.jpg",              imageAlt: "Jane Oneil "
             }
           ]}
           showRating={true}

@@ -111,9 +111,6 @@ export default function LandingPage() {
           animationType="slide-up"
           textboxLayout="default"
           useInvertedBackground={false}
-          buttons={[
-            { text: "Get Free Inspection", href: "tel:(818)405-0292" }
-          ]}
           buttonAnimation="slide-up"
         />
       </div>

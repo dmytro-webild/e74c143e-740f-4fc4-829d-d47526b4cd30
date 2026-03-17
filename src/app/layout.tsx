@@ -14,8 +14,14 @@ export const metadata: Metadata = {
   description: 'Professional roofing contractor in Mission Hills, CA. Roof repair, installation, insurance work. 4.8★ rated. Free estimates. Call (818) 405-0292.',
 };
 
+
+const inter = Inter({
+  variable: "--font-inter",
+  subsets: ["latin"],
+});
 const openSans = Open_Sans({
-  variable: "--font-open-sans",  subsets: ["latin"],
+  variable: "--font-open-sans",
+  subsets: ["latin"],
 });
 
 export default function RootLayout({
@@ -26,7 +32,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <ServiceWrapper>
-        <body className={`${openSans.variable} antialiased`}>
+        <body className={`${inter.variable} ${openSans.variable} antialiased`}>
           <Tag />
           {children}
           <script

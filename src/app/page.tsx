@@ -136,10 +136,6 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/portrait-happy-senior-woman-showing-thumbs-up_1262-5331.jpg",              imageAlt: "Duane McCarthy"
             },
             {
-              id: "3",              name: "",              handle: "Valerie Moreno",              testimonial: "Handled our insurance claim perfectly. Saved us thousands and the roof looks amazing. Great communication throughout.",              rating: 5,
-              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-woman-cafe_273609-12661.jpg",              imageAlt: ""
-            },
-            {
               id: "4",              name: "Valerie Moreno ",              handle: "Homeowner",              testimonial: "Storm damaged our roof and these guys got us back in shape fast. Honest, reliable, and they stand behind their work.",              rating: 5,
               imageSrc: "http://img.b2bpic.net/free-photo/happy-pretty-young-lady-waving-hand-you-park_1262-20562.jpg",              imageAlt: "Valerie Moreno "
             },
